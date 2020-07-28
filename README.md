@@ -25,7 +25,7 @@ Excellent with frontend technologies Vue, React and have an eye for building bea
 
 My journey so far in tech as been very exciting constantly pushing myself to be better in this ever changing and progressive industry. I mentor as many aspiring programmers and designer as I can, after all I got a lot of help from my mentors back in the days. I always said I will pay it forward.
 
-I am always availability send me a mail greendublin007@gmail.com
+I am availability, send me a mail greendublin007@gmail.com
 
 
 </div>
