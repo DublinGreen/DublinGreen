@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="200" height="200" src="https://github.com/DublinGreen/DublinGreen/blob/master/profile.png" alt="dublin-green" title="dublin-green"/>
 
-Howdy! I’m a software developer with over a decade of software development experience building enterprise web, mobile and desktop applications in several programming languages.  JAVA, PHP, PYTHON, GO , Javascript and C++.
+I’m a software developer with over a decade of software development experience building enterprise web, mobile and desktop applications in several programming languages.  JAVA, PHP, PYTHON, GO , Javascript and C++.
 
 Excellent with frontend technologies Vue, React and have an eye for building beautiful and user focused web designs. Very skilled at building micro-services, native mobile applications and hybrid mobile application with Flutter.
 
