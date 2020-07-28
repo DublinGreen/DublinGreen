@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<img align="right" src="https://drive.google.com/file/d/128hjC7qKqpV03HwGxsUXkRlM7HpF5G_d/view?usp=sharing" alt="dublin-green" title="dublin-green"/>
+<img align="right" src="https://github.com/DublinGreen/DublinGreen/blob/master/20200503_102226%20(2).jpg" alt="dublin-green" title="dublin-green"/>
 
 Howdy! I’m a software developer with over a decade of software development experience building enterprise web, mobile and desktop applications in several programming languages.  JAVA, PHP, PYTHON, GO , Javascript and C++.
 
