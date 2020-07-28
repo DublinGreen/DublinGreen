@@ -27,7 +27,7 @@ My journey so far in tech as been very exciting constantly pushing myself to be 
 
 I am availability, send me a mail greendublin007@gmail.com :smile:
 
-<img align="right" width="200" height="200" src="https://github.com/DublinGreen/DublinGreen/blob/master/20191121_111334.jpg" alt="dublin-green" title="dublin-green"/>
+<img align="center" width="200" height="200" src="https://github.com/DublinGreen/DublinGreen/blob/master/e426702edf874b181aced1e2fa5c6cde.gif" alt="dublin-green" title="dublin-green"/>
 
 
 
